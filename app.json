@@ -6,19 +6,19 @@
   "env": {
     "TOKEN": {
       "description": "Dapatkan di @botfather",
-      "value": ""
+      "value": "5609275386:AAEZyazPN9u8ai9G5Kg4xuUvR9UTgfY0y3k"
     },
     "OWNER": {
       "description": "Isi dengan username kalian tanpa tanda @",
-      "value": "kenkanasw"
+      "value": "JualVIPVVIP"
     },
     "GROUP": {
       "description": "Isi dengan username group kalian tanpa tanda @ kalau gak punya gak usah isi",
-      "value": "musikkugroup"
+      "value": "Findjodohonline"
     },
     "CHANNEL": {
       "description": "Isi dengan username channel kalian tanpa tanda @ kalau gak punya gak usah isi",
-      "value": "musikkuchannel"
+      "value": "kebugaran2023"
     }
   },
   "addons": [
