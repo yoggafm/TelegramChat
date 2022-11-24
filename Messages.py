@@ -1,4 +1,4 @@
-m_start = "⚡️ SELAMAT DATANG ⚡️\n\ Ini merupakan bot untuk mencari teman dan pasangan \n untuk mencari teman obrolan gunakan button New Chat"
+m_start = "💖 SELAMAT DATANG 💖\n\ Ini merupakan bot untuk mencari teman dan pasangan \n untuk mencari teman obrolan gunakan button New Chat"
 
 m_is_not_free_users = (
     "❗️ Maaf kami belum menemukan teman obrol anda, mohon untuk menunggu dan coba kembali❗️"
@@ -12,7 +12,7 @@ m_is_not_user_name = "❌ Maaf, bot kami hanya dapat berkomunikasi jika Anda mem
 
 m_good_bye = "❌ Maaf lawan bicara anda meninggalkan obrolan ❌"
 
-m_disconnect_user = "Maaf sambungan telah terputus!"
+m_disconnect_user = "❌ Maaf sambungan telah terputus! ❌"
 
 m_failed = "❌ Terjadi kesalahan! ❌"
 
@@ -26,7 +26,7 @@ m_dislike_user_to = (
 
 m_send_some_messages = "Bot tidak bisa meneruskan pesan dari bot"
 
-m_has_not_dialog = "Anda tidak sedang dalam obrolan"
+m_has_not_dialog = "❌ Anda tidak sedang dalam obrolan ❌"
 
 dislike_str = "👎 Tidak suka"
 
