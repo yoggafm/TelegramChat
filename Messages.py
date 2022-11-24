@@ -1,10 +1,10 @@
 m_start = "💖 SELAMAT DATANG 💖\n\ Ini merupakan bot untuk mencari teman dan pasangan \n untuk mencari teman obrolan gunakan button New Chat"
 
 m_is_not_free_users = (
-    "❗️❗️❗️❗️❗️❗️❗️❗️❗️❗️❗️❗️❗️❗️\n Maaf kami belum menemukan teman obrol anda, \n mohon untuk menunggu dan coba kembali"
+    "❗️Maaf kami belum menemukan teman obrol anda❗️, \n mohon untuk menunggu dan coba kembali"
 )
 
-m_is_connect = "✅✅✅✅✅✅✅✅✅✅✅✅✅✅ \n Kami telah menemukan teman ngobrol untuk kamu, \n silahkan mulai obrolan anda"
+m_is_connect = "✅Kami telah menemukan teman ngobrol✅ \n silahkan mulai obrolan anda"
 
 m_play_again = "Apakah Anda Ingin mengobrol dengan orang lain? \n Klik New Chat untuk memulai obrolan baru.\n\n Follow Channel dan join group untuk mendapatkan lebih banyak teman"
 
