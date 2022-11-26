@@ -10,23 +10,23 @@ m_play_again = "Apakah Anda Ingin mengobrol dengan orang lain? \n Klik New Chat 
 
 m_is_not_user_name = "❌ Maaf, bot kami hanya dapat berkomunikasi jika Anda memiliki nama pengguna. Silahkan setting di pengaturan akun anda untuk menambahkan pengguna❌"
 
-m_good_bye = "❌ Maaf lawan bicara anda meninggalkan obrolan ❌"
+m_good_bye = "❌ Maaf lawan bicara anda meninggalkan obrolan ❌" \n Klik /next untuk mencari lanjut ngorbol 
 
-m_disconnect_user = "❌ Maaf sambungan telah terputus!❌"
+m_disconnect_user = "❌ Maaf sambungan telah terputus!❌" \n Klik /next untuk mencari lanjut ngorbol dengan yang lain
 
-m_failed = "❌ Terjadi kesalahan!❌"
+m_failed = "❌ Terjadi kesalahan!\n❌" \n Klik /next untuk mencari lanjut ngorbol dengan yang lain
 
 m_like = "✅Anda mengerimkan username ke teman anda✅"
 
-m_dislike_user = "Obrolan Telah Berakhir"
+m_dislike_user = "Obrolan Telah Berakhir, Join ke @Findpacaronline untuk mendapatkan kenalan lebih banyak lagi atau Klik New Chat untuk memulai obrolan"
 
 m_dislike_user_to = (
     "⛔ Lawan bicara anda meninggalkan obrolan ⛔"
-)
+ \n Klik /next untuk mencari lanjut ngorbol dengan yang lain ) 
 
-m_send_some_messages = "Bot tidak bisa meneruskan pesan dari bot"
+m_send_some_messages = "Bot tidak bisa meneruskan pesan dari bot"  \n Klik /next untuk mencari lanjut ngorbol dengan yang lain
 
-m_has_not_dialog = "❌ Anda tidak sedang dalam obrolan ❌"
+m_has_not_dialog = "❌ Anda tidak sedang dalam obrolan ❌" \n Klik /next untuk mencari lanjut ngorbol dengan yang lain
 
 dislike_str = "👎 Tidak suka"
 
